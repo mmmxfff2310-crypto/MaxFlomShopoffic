@@ -96,7 +96,7 @@
       document.getElementById("loading").style.display = "block";
 
       setTimeout(function() {
-        window.location.href = "https://mmmxfff2310-crypto.github.io/MaxFlomShop/";
+        window.location.href = "https://mmmxfff2310-crypto.github.io/Super/";
       }, 5000);
     }
   </script>
