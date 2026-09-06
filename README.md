@@ -77,10 +77,10 @@
 <body>
 
   <div class="error" id="error">
-    <h1>Ошибка</h1>
+    <h1>Ошибка! Платежная ссылка в разработке!</h1>
 
     <button onclick="startLoading()">
-      Перейти на сайт
+      Вернуться на сайт
     </button>
   </div>
 
@@ -96,7 +96,7 @@
       document.getElementById("loading").style.display = "block";
 
       setTimeout(function() {
-        window.location.href = "https://example.com";
+        window.location.href = "https://mmmxfff2310-crypto.github.io/MaxFlomShop/";
       }, 5000);
     }
   </script>
